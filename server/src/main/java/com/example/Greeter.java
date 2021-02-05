@@ -1,7 +1,8 @@
 package com.example;
 
 /**
- * This is a class.
+ *Hello World.
+ *This is a poll SCM Test
  */
 public class Greeter {
 
